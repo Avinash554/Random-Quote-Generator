@@ -1,0 +1,33 @@
+.jumbotron{
+  background-color: black;
+  background-size: cover;
+  overflow: hidden;
+ z-index: -1;
+  position:realative;
+  width:100%;
+  heigth:auto;
+  color: white;
+  opacity: 1.0;
+} 
+.well{
+  color:black;
+}
+.author{
+  font-style: italic;
+}
+.fa-twitter {
+    background: #55ACEE;
+    color: white;
+}
+.fa {
+    padding: 10px 20px 10px 10px;
+    font-size: 0px;
+    width: 0px;
+    text-align: center;
+    text-decoration: none;
+}
+
+/* Add a hover effect if you want */
+.fa:hover {
+    opacity: 0.7;
+}
